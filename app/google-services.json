@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "596924491301",
+    "firebase_url": "https://geekshop-69af1.firebaseio.com",
+    "project_id": "geekshop-69af1",
+    "storage_bucket": "geekshop-69af1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596924491301:android:3589aef306b95c24d1c1cc",
+        "android_client_info": {
+          "package_name": "com.example.geekshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596924491301-m8cguqp8s40mpbeta8lu3vpk008ht2nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhwOh4_7Te9U_fnu7WLpvYh1n_DxAYWVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596924491301-m8cguqp8s40mpbeta8lu3vpk008ht2nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
